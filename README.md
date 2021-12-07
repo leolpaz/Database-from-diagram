@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./diagram_screenshot.png)
 
 Additional description about the project and its features.
 
@@ -49,11 +49,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Leonardo Paz** (Performance audit)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [Leonardo Paz](https://github.com/leolpaz)
+- Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
+- Linkedin: [Leonardo Paz](https://www.linkedin.com/in/leonardolpaz/)
 
 ## 🤝 Contributing
 
