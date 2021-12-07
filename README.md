@@ -1,59 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Medical Clinic Database
 
-> One paragraph statement about the project.
+> This repository is about the development of a database coming from an assigned ER diagram provided by Microverse.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./diagram_screenshot.png)
 
-Additional description about the project and its features.
+- This database has tables, primary keys, foreign keys and indexes for each foreign to perform the query search faster.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- PostgreSQL
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-### Setup
+- A code editor of your preference.
+- PostgreSQL.
 
 ### Install
 
-### Usage
+- Clone the repository from gitHub
+```
+git clone <REPO-NAME>
 
-### Run tests
+```
+- Use the follow code in your postgreSQL command line to create the database and all its entities automatically.
+```
+\i schema_based_on_diagram ;
 
-### Deployment
-
-
-
+```
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [Enmanuel Lassis](https://github.com/elassis)
+- LinkedIn: [Enmanuel Lassis](https://linkedin.com/in/enmanuel-lassis-pena)
 
-👤 **Author2**
+👤 **Leonardo Paz** (Performance audit)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [Leonardo Paz](https://github.com/leolpaz)
+- Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
+- Linkedin: [Leonardo Paz](https://www.linkedin.com/in/leonardolpaz/)
 
 ## 🤝 Contributing
 
@@ -64,12 +53,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
